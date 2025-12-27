@@ -1,0 +1,982 @@
+[
+    {
+        "id": "1",
+        "image": "1.png",
+        "description": "The polyp is located in the middle-center part of the image. Its bounding box has coordinates (x=476, y=359, width=96, height=170), and it covers approximately 0.9% of the image."
+    },
+    {
+        "id": "2",
+        "image": "2.png",
+        "description": "The polyp is located in the middle-center part of the image. Its bounding box has coordinates (x=474, y=336, width=101, height=168), and it covers approximately 0.9% of the image."
+    },
+    {
+        "id": "3",
+        "image": "3.png",
+        "description": "The polyp is located in the middle-center part of the image. Its bounding box has coordinates (x=481, y=481, width=93, height=170), and it covers approximately 0.8% of the image."
+    },
+    {
+        "id": "4",
+        "image": "4.png",
+        "description": "The polyp is located in the middle-center part of the image. Its bounding box has coordinates (x=478, y=344, width=95, height=166), and it covers approximately 0.9% of the image."
+    },
+    {
+        "id": "5",
+        "image": "5.png",
+        "description": "The polyp is located in the middle-center part of the image. Its bounding box has coordinates (x=493, y=475, width=78, height=171), and it covers approximately 0.7% of the image."
+    },
+    {
+        "id": "6",
+        "image": "6.png",
+        "description": "The polyp is located in the middle-center part of the image. Its bounding box has coordinates (x=476, y=338, width=99, height=164), and it covers approximately 0.9% of the image."
+    },
+    {
+        "id": "7",
+        "image": "7.png",
+        "description": "The polyp is located in the lower middle-left part of the image. Its bounding box has coordinates (x=348, y=537, width=86, height=148), and it covers approximately 0.8% of the image."
+    },
+    {
+        "id": "8",
+        "image": "8.png",
+        "description": "The polyp is located in the lower middle-left part of the image. Its bounding box has coordinates (x=331, y=509, width=96, height=154), and it covers approximately 0.9% of the image."
+    },
+    {
+        "id": "9",
+        "image": "9.png",
+        "description": "The polyp is located in the lower middle-left part of the image. Its bounding box has coordinates (x=355, y=561, width=72, height=127), and it covers approximately 0.6% of the image."
+    },
+    {
+        "id": "10",
+        "image": "10.png",
+        "description": "The polyp is located in the lower middle-left part of the image. Its bounding box has coordinates (x=332, y=510, width=95, height=148), and it covers approximately 0.9% of the image."
+    },
+    {
+        "id": "11",
+        "image": "11.png",
+        "description": "The polyp is located in the lower middle-left part of the image. Its bounding box has coordinates (x=364, y=616, width=71, height=119), and it covers approximately 0.5% of the image."
+    },
+    {
+        "id": "12",
+        "image": "12.png",
+        "description": "The polyp is located in the middle-left part of the image. Its bounding box has coordinates (x=327, y=477, width=87, height=167), and it covers approximately 0.9% of the image."
+    },
+    {
+        "id": "13",
+        "image": "13.png",
+        "description": "The polyp is located in the middle-center part of the image. Its bounding box has coordinates (x=529, y=226, width=313, height=613), and it covers approximately 7.8% of the image."
+    },
+    {
+        "id": "14",
+        "image": "14.png",
+        "description": "The polyp is located in the middle-center part of the image. Its bounding box has coordinates (x=554, y=77, width=332, height=695), and it covers approximately 9.0% of the image."
+    },
+    {
+        "id": "15",
+        "image": "15.png",
+        "description": "The polyp is located in the middle-right part of the image. Its bounding box has coordinates (x=687, y=166, width=410, height=644), and it covers approximately 9.8% of the image."
+    },
+    {
+        "id": "16",
+        "image": "16.png",
+        "description": "The polyp is located in the middle-right part of the image. Its bounding box has coordinates (x=731, y=120, width=380, height=610), and it covers approximately 9.4% of the image."
+    },
+    {
+        "id": "17",
+        "image": "17.png",
+        "description": "The polyp is located in the lower middle-right part of the image. Its bounding box has coordinates (x=723, y=335, width=366, height=532), and it covers approximately 8.3% of the image."
+    },
+    {
+        "id": "18",
+        "image": "18.png",
+        "description": "The polyp is located in the lower middle-right part of the image. Its bounding box has coordinates (x=752, y=460, width=340, height=496), and it covers approximately 6.6% of the image."
+    },
+    {
+        "id": "19",
+        "image": "19.png",
+        "description": "The polyp is located in the bottom-right part of the image. Its bounding box has coordinates (x=868, y=668, width=167, height=214), and it covers approximately 2.2% of the image."
+    },
+    {
+        "id": "20",
+        "image": "20.png",
+        "description": "The polyp is located in the bottom-right part of the image. Its bounding box has coordinates (x=867, y=705, width=130, height=195), and it covers approximately 1.5% of the image."
+    },
+    {
+        "id": "21",
+        "image": "21.png",
+        "description": "The polyp is located in the upper middle-left part of the image. Its bounding box has coordinates (x=320, y=242, width=273, height=245), and it covers approximately 4.2% of the image."
+    },
+    {
+        "id": "22",
+        "image": "22.png",
+        "description": "The polyp is located in the bottom-right part of the image. Its bounding box has coordinates (x=866, y=666, width=118, height=238), and it covers approximately 1.6% of the image."
+    },
+    {
+        "id": "23",
+        "image": "23.png",
+        "description": "The polyp is located in the upper middle-right part of the image. Its bounding box has coordinates (x=767, y=339, width=72, height=87), and it covers approximately 0.4% of the image."
+    },
+    {
+        "id": "24",
+        "image": "24.png",
+        "description": "The polyp is located in the middle-right part of the image. Its bounding box has coordinates (x=762, y=427, width=73, height=86), and it covers approximately 0.4% of the image."
+    },
+    {
+        "id": "25",
+        "image": "25.png",
+        "description": "The polyp is located in the lower middle-left part of the image. Its bounding box has coordinates (x=295, y=490, width=323, height=290), and it covers approximately 4.3% of the image."
+    },
+    {
+        "id": "26",
+        "image": "26.png",
+        "description": "The polyp is located in the lower middle-left part of the image. Its bounding box has coordinates (x=286, y=497, width=327, height=289), and it covers approximately 4.2% of the image."
+    },
+    {
+        "id": "27",
+        "image": "27.png",
+        "description": "The polyp is located in the lower middle-left part of the image. Its bounding box has coordinates (x=284, y=474, width=333, height=303), and it covers approximately 4.4% of the image."
+    },
+    {
+        "id": "28",
+        "image": "28.png",
+        "description": "The polyp is located in the lower middle-center part of the image. Its bounding box has coordinates (x=404, y=539, width=291, height=324), and it covers approximately 4.6% of the image."
+    },
+    {
+        "id": "29",
+        "image": "29.png",
+        "description": "The polyp is located in the lower middle-left part of the image. Its bounding box has coordinates (x=306, y=486, width=314, height=290), and it covers approximately 4.2% of the image."
+    },
+    {
+        "id": "30",
+        "image": "30.png",
+        "description": "The polyp is located in the lower middle-left part of the image. Its bounding box has coordinates (x=295, y=486, width=322, height=296), and it covers approximately 4.1% of the image."
+    },
+    {
+        "id": "31",
+        "image": "31.png",
+        "description": "The polyp is located in the lower middle-left part of the image. Its bounding box has coordinates (x=220, y=562, width=314, height=239), and it covers approximately 3.3% of the image."
+    },
+    {
+        "id": "32",
+        "image": "32.png",
+        "description": "The polyp is located in the middle-left part of the image. Its bounding box has coordinates (x=254, y=342, width=384, height=326), and it covers approximately 6.9% of the image."
+    },
+    {
+        "id": "33",
+        "image": "33.png",
+        "description": "The polyp is located in the lower middle-left part of the image. Its bounding box has coordinates (x=266, y=465, width=374, height=324), and it covers approximately 6.3% of the image."
+    },
+    {
+        "id": "34",
+        "image": "34.png",
+        "description": "The polyp is located in the lower middle-left part of the image. Its bounding box has coordinates (x=186, y=477, width=439, height=356), and it covers approximately 8.6% of the image."
+    },
+    {
+        "id": "35",
+        "image": "35.png",
+        "description": "The polyp is located in the lower middle-center part of the image. Its bounding box has coordinates (x=333, y=626, width=382, height=222), and it covers approximately 4.4% of the image."
+    },
+    {
+        "id": "36",
+        "image": "36.png",
+        "description": "The polyp is located in the lower middle-center part of the image. Its bounding box has coordinates (x=427, y=688, width=189, height=93), and it covers approximately 0.9% of the image."
+    },
+    {
+        "id": "37",
+        "image": "37.png",
+        "description": "The polyp is located in the lower middle-center part of the image. Its bounding box has coordinates (x=533, y=614, width=180, height=164), and it covers approximately 1.9% of the image."
+    },
+    {
+        "id": "38",
+        "image": "38.png",
+        "description": "The polyp is located in the lower middle-right part of the image. Its bounding box has coordinates (x=735, y=604, width=164, height=171), and it covers approximately 1.8% of the image."
+    },
+    {
+        "id": "39",
+        "image": "39.png",
+        "description": "The polyp is located in the lower middle-right part of the image. Its bounding box has coordinates (x=754, y=611, width=173, height=164), and it covers approximately 1.9% of the image."
+    },
+    {
+        "id": "40",
+        "image": "40.png",
+        "description": "The polyp is located in the lower middle-center part of the image. Its bounding box has coordinates (x=600, y=544, width=260, height=230), and it covers approximately 3.6% of the image."
+    },
+    {
+        "id": "41",
+        "image": "41.png",
+        "description": "The polyp is located in the lower middle-center part of the image. Its bounding box has coordinates (x=525, y=578, width=263, height=245), and it covers approximately 4.2% of the image."
+    },
+    {
+        "id": "42",
+        "image": "42.png",
+        "description": "The polyp is located in the bottom-center part of the image. Its bounding box has coordinates (x=500, y=732, width=169, height=151), and it covers approximately 1.6% of the image."
+    },
+    {
+        "id": "43",
+        "image": "43.png",
+        "description": "The polyp is located in the middle-far right part of the image. Its bounding box has coordinates (x=1050, y=464, width=42, height=50), and it covers approximately 6.4% of the image."
+    },
+    {
+        "id": "44",
+        "image": "44.png",
+        "description": "The polyp is located in the middle-far right part of the image. Its bounding box has coordinates (x=1044, y=468, width=38, height=42), and it covers approximately 5.5% of the image."
+    },
+    {
+        "id": "45",
+        "image": "45.png",
+        "description": "The polyp is located in the middle-far right part of the image. Its bounding box has coordinates (x=1040, y=446, width=46, height=54), and it covers approximately 5.1% of the image."
+    },
+    {
+        "id": "46",
+        "image": "46.png",
+        "description": "The polyp is located in the middle-far right part of the image. Its bounding box has coordinates (x=1030, y=434, width=48, height=48), and it covers approximately 5.0% of the image."
+    },
+    {
+        "id": "47",
+        "image": "47.png",
+        "description": "The polyp is located in the middle-far right part of the image. Its bounding box has coordinates (x=1036, y=420, width=58, height=46), and it covers approximately 4.3% of the image."
+    },
+    {
+        "id": "48",
+        "image": "48.png",
+        "description": "The polyp is located in the middle-far right part of the image. Its bounding box has coordinates (x=1032, y=466, width=50, height=48), and it covers approximately 5.7% of the image."
+    },
+    {
+        "id": "49",
+        "image": "49.png",
+        "description": "The polyp is located in the lower middle-right part of the image. Its bounding box has coordinates (x=883, y=509, width=151, height=226), and it covers approximately 2.0% of the image."
+    },
+    {
+        "id": "50",
+        "image": "50.png",
+        "description": "The polyp is located in the lower middle-right part of the image. Its bounding box has coordinates (x=841, y=483, width=150, height=219), and it covers approximately 2.0% of the image."
+    },
+    {
+        "id": "51",
+        "image": "51.png",
+        "description": "The polyp is located in the middle-right part of the image. Its bounding box has coordinates (x=700, y=331, width=145, height=209), and it covers approximately 2.0% of the image."
+    },
+    {
+        "id": "52",
+        "image": "52.png",
+        "description": "The polyp is located in the lower middle-center part of the image. Its bounding box has coordinates (x=525, y=371, width=367, height=526), and it covers approximately 12.6% of the image."
+    },
+    {
+        "id": "53",
+        "image": "53.png",
+        "description": "The polyp is located in the middle-far left part of the image. Its bounding box has coordinates (x=157, y=436, width=86, height=145), and it covers approximately 0.8% of the image."
+    },
+    {
+        "id": "54",
+        "image": "54.png",
+        "description": "The polyp is located in the middle-left part of the image. Its bounding box has coordinates (x=177, y=398, width=137, height=189), and it covers approximately 1.4% of the image."
+    },
+    {
+        "id": "55",
+        "image": "55.png",
+        "description": "The polyp is located in the lower middle-right part of the image. Its bounding box has coordinates (x=893, y=503, width=158, height=232), and it covers approximately 2.2% of the image."
+    },
+    {
+        "id": "56",
+        "image": "56.png",
+        "description": "The polyp is located in the middle-right part of the image. Its bounding box has coordinates (x=697, y=327, width=156, height=202), and it covers approximately 2.1% of the image."
+    },
+    {
+        "id": "57",
+        "image": "57.png",
+        "description": "The polyp is located in the bottom-center part of the image. Its bounding box has coordinates (x=583, y=767, width=99, height=124), and it covers approximately 0.8% of the image."
+    },
+    {
+        "id": "58",
+        "image": "58.png",
+        "description": "The polyp is located in the lower middle-center part of the image. Its bounding box has coordinates (x=575, y=673, width=93, height=130), and it covers approximately 0.7% of the image."
+    },
+    {
+        "id": "59",
+        "image": "59.png",
+        "description": "The polyp is located in the middle-right part of the image. Its bounding box has coordinates (x=631, y=307, width=292, height=331), and it covers approximately 4.1% of the image."
+    },
+    {
+        "id": "60",
+        "image": "60.png",
+        "description": "The polyp is located in the bottom-center part of the image. Its bounding box has coordinates (x=607, y=779, width=58, height=102), and it covers approximately 0.3% of the image."
+    },
+    {
+        "id": "61",
+        "image": "61.png",
+        "description": "The polyp is located in the middle-right part of the image. Its bounding box has coordinates (x=638, y=257, width=292, height=361), and it covers approximately 4.7% of the image."
+    },
+    {
+        "id": "62",
+        "image": "62.png",
+        "description": "The polyp is located in the middle-right part of the image. Its bounding box has coordinates (x=634, y=291, width=258, height=333), and it covers approximately 4.2% of the image."
+    },
+    {
+        "id": "63",
+        "image": "63.png",
+        "description": "The polyp is located in the upper middle-right part of the image. Its bounding box has coordinates (x=535, y=2, width=554, height=491), and it covers approximately 16.7% of the image."
+    },
+    {
+        "id": "64",
+        "image": "64.png",
+        "description": "The polyp is located in the middle-center part of the image. Its bounding box has coordinates (x=302, y=312, width=528, height=471), and it covers approximately 15.9% of the image."
+    },
+    {
+        "id": "65",
+        "image": "65.png",
+        "description": "The polyp is located in the upper middle-center part of the image. Its bounding box has coordinates (x=349, y=184, width=289, height=212), and it covers approximately 3.9% of the image."
+    },
+    {
+        "id": "66",
+        "image": "66.png",
+        "description": "The polyp is located in the middle-center part of the image. Its bounding box has coordinates (x=292, y=265, width=551, height=497), and it covers approximately 17.5% of the image."
+    },
+    {
+        "id": "67",
+        "image": "67.png",
+        "description": "The polyp is located in the upper middle-left part of the image. Its bounding box has coordinates (x=341, y=191, width=285, height=201), and it covers approximately 3.6% of the image."
+    },
+    {
+        "id": "68",
+        "image": "68.png",
+        "description": "The polyp is located in the upper middle-left part of the image. Its bounding box has coordinates (x=203, y=280, width=217, height=133), and it covers approximately 1.7% of the image."
+    },
+    {
+        "id": "69",
+        "image": "69.png",
+        "description": "The polyp is located in the lower middle-center part of the image. Its bounding box has coordinates (x=448, y=634, width=86, height=77), and it covers approximately 0.4% of the image."
+    },
+    {
+        "id": "70",
+        "image": "70.png",
+        "description": "The polyp is located in the middle-center part of the image. Its bounding box has coordinates (x=484, y=498, width=70, height=66), and it covers approximately 0.2% of the image."
+    },
+    {
+        "id": "71",
+        "image": "71.png",
+        "description": "The polyp is located in the bottom-left part of the image. Its bounding box has coordinates (x=347, y=819, width=110, height=95), and it covers approximately 0.7% of the image."
+    },
+    {
+        "id": "72",
+        "image": "72.png",
+        "description": "The polyp is located in the bottom-left part of the image. Its bounding box has coordinates (x=409, y=748, width=87, height=94), and it covers approximately 0.5% of the image."
+    },
+    {
+        "id": "73",
+        "image": "73.png",
+        "description": "The polyp is located in the lower middle-center part of the image. Its bounding box has coordinates (x=467, y=618, width=74, height=67), and it covers approximately 0.3% of the image."
+    },
+    {
+        "id": "74",
+        "image": "74.png",
+        "description": "The polyp is located in the bottom-left part of the image. Its bounding box has coordinates (x=346, y=811, width=111, height=83), and it covers approximately 0.6% of the image."
+    },
+    {
+        "id": "75",
+        "image": "75.png",
+        "description": "The polyp is located in the upper middle-right part of the image. Its bounding box has coordinates (x=906, y=266, width=92, height=130), and it covers approximately 0.7% of the image."
+    },
+    {
+        "id": "76",
+        "image": "76.png",
+        "description": "The polyp is located in the upper middle-right part of the image. Its bounding box has coordinates (x=798, y=303, width=73, height=108), and it covers approximately 0.4% of the image."
+    },
+    {
+        "id": "77",
+        "image": "77.png",
+        "description": "The polyp is located in the middle-right part of the image. Its bounding box has coordinates (x=792, y=359, width=66, height=95), and it covers approximately 0.4% of the image."
+    },
+    {
+        "id": "78",
+        "image": "78.png",
+        "description": "The polyp is located in the middle-center part of the image. Its bounding box has coordinates (x=694, y=472, width=56, height=75), and it covers approximately 0.3% of the image."
+    },
+    {
+        "id": "79",
+        "image": "79.png",
+        "description": "The polyp is located in the middle-center part of the image. Its bounding box has coordinates (x=665, y=496, width=68, height=81), and it covers approximately 0.3% of the image."
+    },
+    {
+        "id": "80",
+        "image": "80.png",
+        "description": "The polyp is located in the middle-far right part of the image. Its bounding box has coordinates (x=1029, y=344, width=108, height=152), and it covers approximately 1.0% of the image."
+    },
+    {
+        "id": "81",
+        "image": "81.png",
+        "description": "The polyp is located in the lower middle-right part of the image. Its bounding box has coordinates (x=696, y=497, width=365, height=417), and it covers approximately 8.8% of the image."
+    },
+    {
+        "id": "82",
+        "image": "82.png",
+        "description": "The polyp is located in the middle-right part of the image. Its bounding box has coordinates (x=855, y=373, width=212, height=241), and it covers approximately 2.9% of the image."
+    },
+    {
+        "id": "83",
+        "image": "83.png",
+        "description": "The polyp is located in the middle-far right part of the image. Its bounding box has coordinates (x=867, y=252, width=349, height=331), and it covers approximately 6.9% of the image."
+    },
+    {
+        "id": "84",
+        "image": "84.png",
+        "description": "The polyp is located in the middle-right part of the image. Its bounding box has coordinates (x=728, y=225, width=399, height=343), and it covers approximately 8.1% of the image."
+    },
+    {
+        "id": "85",
+        "image": "85.png",
+        "description": "The polyp is located in the middle-right part of the image. Its bounding box has coordinates (x=814, y=404, width=321, height=285), and it covers approximately 5.7% of the image."
+    },
+    {
+        "id": "86",
+        "image": "86.png",
+        "description": "The polyp is located in the middle-right part of the image. Its bounding box has coordinates (x=865, y=370, width=206, height=244), and it covers approximately 2.9% of the image."
+    },
+    {
+        "id": "87",
+        "image": "87.png",
+        "description": "The polyp is located in the middle-center part of the image. Its bounding box has coordinates (x=337, y=369, width=350, height=394), and it covers approximately 7.0% of the image."
+    },
+    {
+        "id": "88",
+        "image": "88.png",
+        "description": "The polyp is located in the middle-left part of the image. Its bounding box has coordinates (x=139, y=338, width=297, height=351), and it covers approximately 5.3% of the image."
+    },
+    {
+        "id": "89",
+        "image": "89.png",
+        "description": "The polyp is located in the upper middle-left part of the image. Its bounding box has coordinates (x=217, y=315, width=76, height=68), and it covers approximately 0.3% of the image."
+    },
+    {
+        "id": "90",
+        "image": "90.png",
+        "description": "The polyp is located in the top-center part of the image. Its bounding box has coordinates (x=446, y=109, width=91, height=82), and it covers approximately 0.5% of the image."
+    },
+    {
+        "id": "91",
+        "image": "91.png",
+        "description": "The polyp is located in the middle-center part of the image. Its bounding box has coordinates (x=382, y=286, width=315, height=366), and it covers approximately 5.8% of the image."
+    },
+    {
+        "id": "92",
+        "image": "92.png",
+        "description": "The polyp is located in the upper middle-center part of the image. Its bounding box has coordinates (x=434, y=194, width=239, height=278), and it covers approximately 3.5% of the image."
+    },
+    {
+        "id": "93",
+        "image": "93.png",
+        "description": "The polyp is located in the upper middle-left part of the image. Its bounding box has coordinates (x=402, y=234, width=110, height=148), and it covers approximately 1.0% of the image."
+    },
+    {
+        "id": "94",
+        "image": "94.png",
+        "description": "The polyp is located in the upper middle-center part of the image. Its bounding box has coordinates (x=440, y=264, width=105, height=128), and it covers approximately 0.7% of the image."
+    },
+    {
+        "id": "95",
+        "image": "95.png",
+        "description": "The polyp is located in the upper middle-center part of the image. Its bounding box has coordinates (x=456, y=325, width=90, height=101), and it covers approximately 0.6% of the image."
+    },
+    {
+        "id": "96",
+        "image": "96.png",
+        "description": "The polyp is located in the middle-left part of the image. Its bounding box has coordinates (x=281, y=502, width=91, height=90), and it covers approximately 0.5% of the image."
+    },
+    {
+        "id": "97",
+        "image": "97.png",
+        "description": "The polyp is located in the upper middle-left part of the image. Its bounding box has coordinates (x=334, y=301, width=100, height=107), and it covers approximately 0.7% of the image."
+    },
+    {
+        "id": "98",
+        "image": "98.png",
+        "description": "The polyp is located in the upper middle-left part of the image. Its bounding box has coordinates (x=416, y=253, width=109, height=127), and it covers approximately 0.8% of the image."
+    },
+    {
+        "id": "99",
+        "image": "99.png",
+        "description": "The polyp is located in the middle-right part of the image. Its bounding box has coordinates (x=759, y=318, width=131, height=226), and it covers approximately 1.9% of the image."
+    },
+    {
+        "id": "100",
+        "image": "100.png",
+        "description": "The polyp is located in the upper middle-right part of the image. Its bounding box has coordinates (x=777, y=270, width=128, height=226), and it covers approximately 1.9% of the image."
+    },
+    {
+        "id": "101",
+        "image": "101.png",
+        "description": "The polyp is located in the middle-right part of the image. Its bounding box has coordinates (x=752, y=323, width=112, height=206), and it covers approximately 1.5% of the image."
+    },
+    {
+        "id": "102",
+        "image": "102.png",
+        "description": "The polyp is located in the middle-right part of the image. Its bounding box has coordinates (x=753, y=328, width=114, height=202), and it covers approximately 1.5% of the image."
+    },
+    {
+        "id": "103",
+        "image": "103.png",
+        "description": "The polyp is located in the middle-right part of the image. Its bounding box has coordinates (x=780, y=287, width=124, height=232), and it covers approximately 1.8% of the image."
+    },
+    {
+        "id": "104",
+        "image": "104.png",
+        "description": "The polyp is located in the middle-right part of the image. Its bounding box has coordinates (x=752, y=324, width=117, height=207), and it covers approximately 1.5% of the image."
+    },
+    {
+        "id": "105",
+        "image": "105.png",
+        "description": "The polyp is located in the middle-far left part of the image. Its bounding box has coordinates (x=6, y=380, width=317, height=378), and it covers approximately 8.0% of the image."
+    },
+    {
+        "id": "106",
+        "image": "106.png",
+        "description": "The polyp is located in the middle-far left part of the image. Its bounding box has coordinates (x=8, y=364, width=298, height=393), and it covers approximately 8.0% of the image."
+    },
+    {
+        "id": "107",
+        "image": "107.png",
+        "description": "The polyp is located in the middle-far left part of the image. Its bounding box has coordinates (x=18, y=377, width=310, height=380), and it covers approximately 7.8% of the image."
+    },
+    {
+        "id": "108",
+        "image": "108.png",
+        "description": "The polyp is located in the lower middle-far left part of the image. Its bounding box has coordinates (x=82, y=470, width=316, height=368), and it covers approximately 8.0% of the image."
+    },
+    {
+        "id": "109",
+        "image": "109.png",
+        "description": "The polyp is located in the middle-far left part of the image. Its bounding box has coordinates (x=11, y=378, width=311, height=376), and it covers approximately 7.8% of the image."
+    },
+    {
+        "id": "110",
+        "image": "110.png",
+        "description": "The polyp is located in the middle-center part of the image. Its bounding box has coordinates (x=409, y=461, width=186, height=223), and it covers approximately 2.7% of the image."
+    },
+    {
+        "id": "111",
+        "image": "111.png",
+        "description": "The polyp is located in the middle-left part of the image. Its bounding box has coordinates (x=272, y=405, width=219, height=239), and it covers approximately 3.2% of the image."
+    },
+    {
+        "id": "112",
+        "image": "112.png",
+        "description": "The polyp is located in the middle-left part of the image. Its bounding box has coordinates (x=292, y=428, width=143, height=179), and it covers approximately 1.6% of the image."
+    },
+    {
+        "id": "113",
+        "image": "113.png",
+        "description": "The polyp is located in the lower middle-right part of the image. Its bounding box has coordinates (x=510, y=401, width=558, height=469), and it covers approximately 16.2% of the image."
+    },
+    {
+        "id": "114",
+        "image": "114.png",
+        "description": "The polyp is located in the lower middle-right part of the image. Its bounding box has coordinates (x=511, y=407, width=582, height=480), and it covers approximately 17.2% of the image."
+    },
+    {
+        "id": "115",
+        "image": "115.png",
+        "description": "The polyp is located in the lower middle-right part of the image. Its bounding box has coordinates (x=504, y=402, width=574, height=472), and it covers approximately 16.5% of the image."
+    },
+    {
+        "id": "116",
+        "image": "116.png",
+        "description": "The polyp is located in the lower middle-right part of the image. Its bounding box has coordinates (x=447, y=360, width=685, height=565), and it covers approximately 23.2% of the image."
+    },
+    {
+        "id": "117",
+        "image": "117.png",
+        "description": "The polyp is located in the lower middle-right part of the image. Its bounding box has coordinates (x=511, y=413, width=564, height=468), and it covers approximately 16.4% of the image."
+    },
+    {
+        "id": "118",
+        "image": "118.png",
+        "description": "The polyp is located in the lower middle-right part of the image. Its bounding box has coordinates (x=514, y=427, width=553, height=455), and it covers approximately 15.6% of the image."
+    },
+    {
+        "id": "119",
+        "image": "119.png",
+        "description": "The polyp is located in the middle-center part of the image. Its bounding box has coordinates (x=217, y=327, width=579, height=488), and it covers approximately 18.3% of the image."
+    },
+    {
+        "id": "120",
+        "image": "120.png",
+        "description": "The polyp is located in the middle-center part of the image. Its bounding box has coordinates (x=227, y=295, width=593, height=511), and it covers approximately 20.0% of the image."
+    },
+    {
+        "id": "121",
+        "image": "121.png",
+        "description": "The polyp is located in the bottom-far left part of the image. Its bounding box has coordinates (x=48, y=694, width=133, height=166), and it covers approximately 1.1% of the image."
+    },
+    {
+        "id": "122",
+        "image": "122.png",
+        "description": "The polyp is located in the lower middle-far left part of the image. Its bounding box has coordinates (x=65, y=665, width=136, height=148), and it covers approximately 0.9% of the image."
+    },
+    {
+        "id": "123",
+        "image": "123.png",
+        "description": "The polyp is located in the lower middle-far left part of the image. Its bounding box has coordinates (x=81, y=636, width=104, height=127), and it covers approximately 0.6% of the image."
+    },
+    {
+        "id": "124",
+        "image": "124.png",
+        "description": "The polyp is located in the top-left part of the image. Its bounding box has coordinates (x=161, y=2, width=392, height=364), and it covers approximately 9.8% of the image."
+    },
+    {
+        "id": "125",
+        "image": "125.png",
+        "description": "The polyp is located in the top-left part of the image. Its bounding box has coordinates (x=144, y=3, width=397, height=367), and it covers approximately 9.8% of the image."
+    },
+    {
+        "id": "126",
+        "image": "126.png",
+        "description": "The polyp is located in the bottom-far left part of the image. Its bounding box has coordinates (x=41, y=708, width=149, height=174), and it covers approximately 1.2% of the image."
+    },
+    {
+        "id": "127",
+        "image": "127.png",
+        "description": "The polyp is located in the bottom-center part of the image. Its bounding box has coordinates (x=463, y=720, width=134, height=116), and it covers approximately 1.0% of the image."
+    },
+    {
+        "id": "128",
+        "image": "128.png",
+        "description": "The polyp is located in the middle-center part of the image. Its bounding box has coordinates (x=436, y=424, width=121, height=94), and it covers approximately 0.7% of the image."
+    },
+    {
+        "id": "129",
+        "image": "129.png",
+        "description": "The polyp is located in the middle-center part of the image. Its bounding box has coordinates (x=438, y=404, width=125, height=92), and it covers approximately 0.7% of the image."
+    },
+    {
+        "id": "130",
+        "image": "130.png",
+        "description": "The polyp is located in the middle-left part of the image. Its bounding box has coordinates (x=367, y=364, width=138, height=105), and it covers approximately 0.9% of the image."
+    },
+    {
+        "id": "131",
+        "image": "131.png",
+        "description": "The polyp is located in the bottom-center part of the image. Its bounding box has coordinates (x=462, y=720, width=133, height=110), and it covers approximately 1.0% of the image."
+    },
+    {
+        "id": "132",
+        "image": "132.png",
+        "description": "The polyp is located in the middle-center part of the image. Its bounding box has coordinates (x=431, y=445, width=121, height=95), and it covers approximately 0.7% of the image."
+    },
+    {
+        "id": "133",
+        "image": "133.png",
+        "description": "The polyp is located in the middle-center part of the image. Its bounding box has coordinates (x=618, y=421, width=176, height=224), and it covers approximately 2.5% of the image."
+    },
+    {
+        "id": "134",
+        "image": "134.png",
+        "description": "The polyp is located in the middle-center part of the image. Its bounding box has coordinates (x=459, y=415, width=149, height=213), and it covers approximately 2.0% of the image."
+    },
+    {
+        "id": "135",
+        "image": "135.png",
+        "description": "The polyp is located in the middle-center part of the image. Its bounding box has coordinates (x=553, y=339, width=102, height=137), and it covers approximately 0.8% of the image."
+    },
+    {
+        "id": "136",
+        "image": "136.png",
+        "description": "The polyp is located in the lower middle-center part of the image. Its bounding box has coordinates (x=622, y=470, width=213, height=256), and it covers approximately 3.5% of the image."
+    },
+    {
+        "id": "137",
+        "image": "137.png",
+        "description": "The polyp is located in the middle-center part of the image. Its bounding box has coordinates (x=474, y=407, width=151, height=234), and it covers approximately 2.0% of the image."
+    },
+    {
+        "id": "138",
+        "image": "138.png",
+        "description": "The polyp is located in the middle-center part of the image. Its bounding box has coordinates (x=551, y=339, width=102, height=152), and it covers approximately 0.9% of the image."
+    },
+    {
+        "id": "139",
+        "image": "139.png",
+        "description": "The polyp is located in the upper middle-right part of the image. Its bounding box has coordinates (x=879, y=196, width=198, height=147), and it covers approximately 1.4% of the image."
+    },
+    {
+        "id": "140",
+        "image": "140.png",
+        "description": "The polyp is located in the middle-right part of the image. Its bounding box has coordinates (x=814, y=395, width=137, height=137), and it covers approximately 1.0% of the image."
+    },
+    {
+        "id": "141",
+        "image": "141.png",
+        "description": "The polyp is located in the middle-right part of the image. Its bounding box has coordinates (x=807, y=447, width=117, height=139), and it covers approximately 0.8% of the image."
+    },
+    {
+        "id": "142",
+        "image": "142.png",
+        "description": "The polyp is located in the middle-right part of the image. Its bounding box has coordinates (x=836, y=398, width=160, height=162), and it covers approximately 1.3% of the image."
+    },
+    {
+        "id": "143",
+        "image": "143.png",
+        "description": "The polyp is located in the upper middle-far right part of the image. Its bounding box has coordinates (x=1036, y=224, width=187, height=172), and it covers approximately 1.6% of the image."
+    },
+    {
+        "id": "144",
+        "image": "144.png",
+        "description": "The polyp is located in the middle-far right part of the image. Its bounding box has coordinates (x=949, y=317, width=186, height=147), and it covers approximately 1.3% of the image."
+    },
+    {
+        "id": "145",
+        "image": "145.png",
+        "description": "The polyp is located in the upper middle-far right part of the image. Its bounding box has coordinates (x=968, y=202, width=221, height=158), and it covers approximately 1.8% of the image."
+    },
+    {
+        "id": "146",
+        "image": "146.png",
+        "description": "The polyp is located in the lower middle-right part of the image. Its bounding box has coordinates (x=788, y=553, width=120, height=138), and it covers approximately 0.8% of the image."
+    },
+    {
+        "id": "147",
+        "image": "147.png",
+        "description": "The polyp is located in the upper middle-center part of the image. Its bounding box has coordinates (x=560, y=291, width=222, height=115), and it covers approximately 1.6% of the image."
+    },
+    {
+        "id": "148",
+        "image": "148.png",
+        "description": "The polyp is located in the top-right part of the image. Its bounding box has coordinates (x=684, y=57, width=198, height=179), and it covers approximately 1.8% of the image."
+    },
+    {
+        "id": "149",
+        "image": "149.png",
+        "description": "The polyp is located in the middle-center part of the image. Its bounding box has coordinates (x=505, y=428, width=222, height=82), and it covers approximately 1.2% of the image."
+    },
+    {
+        "id": "150",
+        "image": "150.png",
+        "description": "The polyp is located in the upper middle-center part of the image. Its bounding box has coordinates (x=402, y=292, width=393, height=174), and it covers approximately 4.2% of the image."
+    },
+    {
+        "id": "151",
+        "image": "151.png",
+        "description": "The polyp is located in the upper middle-right part of the image. Its bounding box has coordinates (x=690, y=147, width=162, height=121), and it covers approximately 1.0% of the image."
+    },
+    {
+        "id": "152",
+        "image": "152.png",
+        "description": "The polyp is located in the upper middle-center part of the image. Its bounding box has coordinates (x=430, y=289, width=279, height=94), and it covers approximately 1.2% of the image."
+    },
+    {
+        "id": "153",
+        "image": "153.png",
+        "description": "The polyp is located in the upper middle-left part of the image. Its bounding box has coordinates (x=381, y=175, width=182, height=178), and it covers approximately 2.1% of the image."
+    },
+    {
+        "id": "154",
+        "image": "154.png",
+        "description": "The polyp is located in the lower middle-far left part of the image. Its bounding box has coordinates (x=61, y=644, width=131, height=117), and it covers approximately 0.9% of the image."
+    },
+    {
+        "id": "155",
+        "image": "155.png",
+        "description": "The polyp is located in the top-center part of the image. Its bounding box has coordinates (x=429, y=114, width=173, height=141), and it covers approximately 1.6% of the image."
+    },
+    {
+        "id": "156",
+        "image": "156.png",
+        "description": "The polyp is located in the lower middle-far left part of the image. Its bounding box has coordinates (x=54, y=628, width=114, height=116), and it covers approximately 0.8% of the image."
+    },
+    {
+        "id": "157",
+        "image": "157.png",
+        "description": "The polyp is located in the lower middle-far left part of the image. Its bounding box has coordinates (x=65, y=646, width=133, height=119), and it covers approximately 1.0% of the image."
+    },
+    {
+        "id": "158",
+        "image": "158.png",
+        "description": "The polyp is located in the top-center part of the image. Its bounding box has coordinates (x=435, y=133, width=155, height=118), and it covers approximately 1.2% of the image."
+    },
+    {
+        "id": "159",
+        "image": "159.png",
+        "description": "The polyp is located in the lower middle-center part of the image. Its bounding box has coordinates (x=341, y=440, width=317, height=301), and it covers approximately 5.1% of the image."
+    },
+    {
+        "id": "160",
+        "image": "160.png",
+        "description": "The polyp is located in the lower middle-left part of the image. Its bounding box has coordinates (x=298, y=491, width=313, height=291), and it covers approximately 4.9% of the image."
+    },
+    {
+        "id": "161",
+        "image": "161.png",
+        "description": "The polyp is located in the lower middle-left part of the image. Its bounding box has coordinates (x=121, y=541, width=280, height=251), and it covers approximately 3.5% of the image."
+    },
+    {
+        "id": "162",
+        "image": "162.png",
+        "description": "The polyp is located in the lower middle-center part of the image. Its bounding box has coordinates (x=348, y=433, width=311, height=303), and it covers approximately 5.2% of the image."
+    },
+    {
+        "id": "163",
+        "image": "163.png",
+        "description": "The polyp is located in the lower middle-left part of the image. Its bounding box has coordinates (x=308, y=485, width=320, height=293), and it covers approximately 5.2% of the image."
+    },
+    {
+        "id": "164",
+        "image": "164.png",
+        "description": "The polyp is located in the lower middle-left part of the image. Its bounding box has coordinates (x=178, y=535, width=305, height=251), and it covers approximately 4.2% of the image."
+    },
+    {
+        "id": "165",
+        "image": "165.png",
+        "description": "The polyp is located in the bottom-left part of the image. Its bounding box has coordinates (x=223, y=729, width=235, height=99), and it covers approximately 1.3% of the image."
+    },
+    {
+        "id": "166",
+        "image": "166.png",
+        "description": "The polyp is located in the bottom-left part of the image. Its bounding box has coordinates (x=193, y=781, width=274, height=138), and it covers approximately 2.3% of the image."
+    },
+    {
+        "id": "167",
+        "image": "167.png",
+        "description": "The polyp is located in the lower middle-center part of the image. Its bounding box has coordinates (x=473, y=631, width=262, height=162), and it covers approximately 2.5% of the image."
+    },
+    {
+        "id": "168",
+        "image": "168.png",
+        "description": "The polyp is located in the bottom-left part of the image. Its bounding box has coordinates (x=189, y=755, width=222, height=109), and it covers approximately 1.4% of the image."
+    },
+    {
+        "id": "169",
+        "image": "169.png",
+        "description": "The polyp is located in the lower middle-center part of the image. Its bounding box has coordinates (x=651, y=598, width=142, height=89), and it covers approximately 0.6% of the image."
+    },
+    {
+        "id": "170",
+        "image": "170.png",
+        "description": "The polyp is located in the bottom-right part of the image. Its bounding box has coordinates (x=703, y=741, width=136, height=80), and it covers approximately 0.5% of the image."
+    },
+    {
+        "id": "171",
+        "image": "171.png",
+        "description": "The polyp is located in the lower middle-center part of the image. Its bounding box has coordinates (x=396, y=596, width=494, height=322), and it covers approximately 9.7% of the image."
+    },
+    {
+        "id": "172",
+        "image": "172.png",
+        "description": "The polyp is located in the middle-center part of the image. Its bounding box has coordinates (x=270, y=274, width=532, height=390), and it covers approximately 12.6% of the image."
+    },
+    {
+        "id": "173",
+        "image": "173.png",
+        "description": "The polyp is located in the middle-center part of the image. Its bounding box has coordinates (x=197, y=362, width=611, height=420), and it covers approximately 15.4% of the image."
+    },
+    {
+        "id": "174",
+        "image": "174.png",
+        "description": "The polyp is located in the lower middle-center part of the image. Its bounding box has coordinates (x=408, y=518, width=453, height=280), and it covers approximately 7.8% of the image."
+    },
+    {
+        "id": "175",
+        "image": "175.png",
+        "description": "The polyp is located in the middle-center part of the image. Its bounding box has coordinates (x=296, y=278, width=485, height=388), and it covers approximately 11.9% of the image."
+    },
+    {
+        "id": "176",
+        "image": "176.png",
+        "description": "The polyp is located in the middle-center part of the image. Its bounding box has coordinates (x=289, y=367, width=502, height=383), and it covers approximately 12.1% of the image."
+    },
+    {
+        "id": "177",
+        "image": "177.png",
+        "description": "The polyp is located in the middle-center part of the image. Its bounding box has coordinates (x=261, y=142, width=775, height=622), and it covers approximately 24.6% of the image."
+    },
+    {
+        "id": "178",
+        "image": "178.png",
+        "description": "The polyp is located in the upper middle-center part of the image. Its bounding box has coordinates (x=409, y=66, width=647, height=538), and it covers approximately 19.9% of the image."
+    },
+    {
+        "id": "179",
+        "image": "179.png",
+        "description": "The polyp is located in the upper middle-center part of the image. Its bounding box has coordinates (x=218, y=66, width=617, height=601), and it covers approximately 25.8% of the image."
+    },
+    {
+        "id": "180",
+        "image": "180.png",
+        "description": "The polyp is located in the middle-center part of the image. Its bounding box has coordinates (x=359, y=222, width=582, height=620), and it covers approximately 23.4% of the image."
+    },
+    {
+        "id": "181",
+        "image": "181.png",
+        "description": "The polyp is located in the middle-right part of the image. Its bounding box has coordinates (x=443, y=233, width=692, height=651), and it covers approximately 28.4% of the image."
+    },
+    {
+        "id": "182",
+        "image": "182.png",
+        "description": "The polyp is located in the middle-center part of the image. Its bounding box has coordinates (x=396, y=138, width=667, height=688), and it covers approximately 29.1% of the image."
+    },
+    {
+        "id": "183",
+        "image": "183.png",
+        "description": "The polyp is located in the upper middle-right part of the image. Its bounding box has coordinates (x=641, y=125, width=201, height=158), and it covers approximately 2.0% of the image."
+    },
+    {
+        "id": "184",
+        "image": "184.png",
+        "description": "The polyp is located in the upper middle-right part of the image. Its bounding box has coordinates (x=637, y=182, width=226, height=153), and it covers approximately 2.3% of the image."
+    },
+    {
+        "id": "185",
+        "image": "185.png",
+        "description": "The polyp is located in the middle-right part of the image. Its bounding box has coordinates (x=654, y=401, width=202, height=168), and it covers approximately 2.1% of the image."
+    },
+    {
+        "id": "186",
+        "image": "186.png",
+        "description": "The polyp is located in the middle-center part of the image. Its bounding box has coordinates (x=563, y=463, width=199, height=161), and it covers approximately 2.0% of the image."
+    },
+    {
+        "id": "187",
+        "image": "187.png",
+        "description": "The polyp is located in the upper middle-right part of the image. Its bounding box has coordinates (x=650, y=168, width=182, height=158), and it covers approximately 1.9% of the image."
+    },
+    {
+        "id": "188",
+        "image": "188.png",
+        "description": "The polyp is located in the upper middle-center part of the image. Its bounding box has coordinates (x=627, y=128, width=214, height=153), and it covers approximately 2.2% of the image."
+    },
+    {
+        "id": "189",
+        "image": "189.png",
+        "description": "The polyp is located in the middle-center part of the image. Its bounding box has coordinates (x=461, y=346, width=209, height=199), and it covers approximately 2.5% of the image."
+    },
+    {
+        "id": "190",
+        "image": "190.png",
+        "description": "The polyp is located in the middle-center part of the image. Its bounding box has coordinates (x=390, y=347, width=250, height=265), and it covers approximately 4.1% of the image."
+    },
+    {
+        "id": "191",
+        "image": "191.png",
+        "description": "The polyp is located in the upper middle-right part of the image. Its bounding box has coordinates (x=799, y=351, width=31, height=54), and it covers approximately 0.1% of the image."
+    },
+    {
+        "id": "192",
+        "image": "192.png",
+        "description": "The polyp is located in the middle-right part of the image. Its bounding box has coordinates (x=888, y=513, width=37, height=56), and it covers approximately 0.1% of the image."
+    },
+    {
+        "id": "193",
+        "image": "193.png",
+        "description": "The polyp is located in the bottom-right part of the image. Its bounding box has coordinates (x=904, y=810, width=33, height=56), and it covers approximately 0.1% of the image."
+    },
+    {
+        "id": "194",
+        "image": "194.png",
+        "description": "The polyp is located in the middle-far right part of the image. Its bounding box has coordinates (x=998, y=485, width=45, height=69), and it covers approximately 0.2% of the image."
+    },
+    {
+        "id": "195",
+        "image": "195.png",
+        "description": "The polyp is located in the middle-right part of the image. Its bounding box has coordinates (x=887, y=523, width=33, height=57), and it covers approximately 0.1% of the image."
+    },
+    {
+        "id": "196",
+        "image": "196.png",
+        "description": "The polyp is located in the lower middle-far right part of the image. Its bounding box has coordinates (x=970, y=645, width=35, height=61), and it covers approximately 0.1% of the image."
+    }
+]
