@@ -42,6 +42,7 @@ NVIDIA GPU with CUDA 11.8 support is recommended.
 
 ### Citation
 If you find this work useful in your research, please consider citing our related paper:
+```bash
 @InProceedings{panmamba,
   author    = {Pan, Zhen and Huang, Wenhui and Zheng, Yuanjie},
   title     = {MAMBA-Based Weakly Supervised Medical Image Segmentation with Cross-Modal Textual Information},
