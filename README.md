@@ -35,6 +35,7 @@ pip install -r requirements.txt
 
 ### Build VMamba Dependency
 cd selective_scan
+
 pip install .
 
 ### Hardware
