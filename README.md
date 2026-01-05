@@ -41,7 +41,6 @@ pip install .
 ```
 
 ## Dataset
-## 4) Configure dataset paths
 
 Set `trainer.dataset_choose` and the corresponding `dataset.<name>.data_root` in `config.yml`.
 
@@ -53,8 +52,22 @@ Supported datasets and their folder conventions:
     - `Original/` (images)
     - `GroundTruth/` (masks)
   - Note: please rename `Ground Truth` → `GroundTruth` if needed.
+    
+- **CVC-ColonDB** (`trainer.dataset_choose: CVC_ColonDB`)
+  - Loader: `src/CVCLoader.py`
+  - `data_root` should contain:
+    - `Original/` (images)
+    - `GroundTruth/` (masks)
+    - 
+  - Note: please rename `Ground Truth` → `GroundTruth` if needed.
 
 - **Kvasir-SEG** (`trainer.dataset_choose: Kvasir_SEG`)
+  - Loader: `src/CVCLoader.py`
+  - `data_root` should contain:
+    - `images/`
+    - `masks/`
+
+- **ETIS-LaribPolypDB** (`trainer.dataset_choose: ETIS-LaribPolypDB`)
   - Loader: `src/CVCLoader.py`
   - `data_root` should contain:
     - `images/`
