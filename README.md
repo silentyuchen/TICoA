@@ -101,6 +101,23 @@ NVIDIA GPU with CUDA 11.8 support is recommended.
   <img src="assets/f3.png" width="850">
 </p>
 
+---
+
+### Main Result
+<p align="center">
+  <img src="assets/f4.png" width="850">
+</p>
+---
+
+### Visualiztion
+<p align="center">
+  <img src="assets/f5.png" width="850">
+</p>
+---
+<p align="center">
+  <img src="assets/f6.png" width="850">
+</p>
+
 ### Citation
 If you find this work useful in your research, please consider citing our related paper:
 ```bash
