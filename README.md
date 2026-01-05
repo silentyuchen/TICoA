@@ -69,13 +69,7 @@ Supported datasets and their folder conventions:
 ### Hardware
 NVIDIA GPU with CUDA 11.8 support is recommended.
 
-## Overall Framework
 
-<p align="center">
-  <img src="assets/model.png" width="850">
-</p>
-
----
 
 ## 🔍 Main Contributions
 
@@ -87,6 +81,19 @@ NVIDIA GPU with CUDA 11.8 support is recommended.
 
 - **Mamba-based Cross-modal Fusion Design:**  
   We adopt Mamba as the image encoder and design a Mamba Fusion module with a bi-dimension fusion strategy to achieve efficient and detailed cross-modal feature fusion.
+
+## Overall Framework
+
+<p align="center">
+  <img src="assets/model.png" width="850">
+</p>
+
+---
+
+#### BiDF Module
+<p align="center">
+  <img src="assets/f3.png" width="850">
+</p>
 
 ### Citation
 If you find this work useful in your research, please consider citing our related paper:
