@@ -69,7 +69,27 @@ Supported datasets and their folder conventions:
 ### Hardware
 NVIDIA GPU with CUDA 11.8 support is recommended.
 
+## Training & Evaluation
+This implementation only supports multi-gpu, DistributedDataParallel training. To train TICoA using 4 GPUs, run:
+```bash
+python -m torch.distributed.launch --nproc_per_node=8 \
+                                   --use_env main.py \
+                                   --model TICoA-T \
+                                   --output_dir your/logging/directory \
+                                   --if_amp \
+                                   --batch_size 4 \
+                                   --model-ema
+```
+And to evaluate on a checkpoint, run:
+```bash
+python -m torch.distributed.launch --nproc_per_node=1 \
+                                   --use_env main.py \
+                                   --model TICoA-T \
+                                   --if_amp \
+                                   --eval \
+                                   --resume your/checkpoint.pth
 
+```
 
 ## 🔍 Main Contributions
 
