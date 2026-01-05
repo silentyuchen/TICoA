@@ -86,8 +86,8 @@ NVIDIA GPU with CUDA 11.8 support is recommended.
 <p align="center">
   <img src="assets/f1.png" width="850">
 </p
+  
 ## Overall Framework
-
 <p align="center">
   <img src="assets/model.png" width="850">
 </p>
