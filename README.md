@@ -56,8 +56,8 @@ Supported datasets and their folder conventions:
 - **CVC-ColonDB** (`trainer.dataset_choose: CVC_ColonDB`)
   - Loader: `src/CVCLoader.py`
   - `data_root` should contain:
-    - `Original/` (images)
-    - `GroundTruth/` (masks)
+    - `images`
+    - `masks`
   - Note: please rename `Ground Truth` → `GroundTruth` if needed.
 
 - **Kvasir-SEG** (`trainer.dataset_choose: Kvasir_SEG`)
