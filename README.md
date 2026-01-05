@@ -40,6 +40,27 @@ cd selective_scan
 pip install .
 ```
 
+## Dataset
+## 4) Configure dataset paths
+
+Set `trainer.dataset_choose` and the corresponding `dataset.<name>.data_root` in `config.yml`.
+
+Supported datasets and their folder conventions:
+
+- **CVC-ClinicDB** (`trainer.dataset_choose: CVC_ClinicDB`)
+  - Loader: `src/CVCLoader.py`
+  - `data_root` should contain:
+    - `Original/` (images)
+    - `GroundTruth/` (masks)
+  - Note: please rename `Ground Truth` → `GroundTruth` if needed.
+
+- **Kvasir-SEG** (`trainer.dataset_choose: Kvasir_SEG`)
+  - Loader: `src/CVCLoader.py`
+  - `data_root` should contain:
+    - `images/`
+    - `masks/`
+
+
 ### Hardware
 NVIDIA GPU with CUDA 11.8 support is recommended.
 
