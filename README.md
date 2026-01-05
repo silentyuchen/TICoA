@@ -58,7 +58,6 @@ Supported datasets and their folder conventions:
   - `data_root` should contain:
     - `Original/` (images)
     - `GroundTruth/` (masks)
-    - 
   - Note: please rename `Ground Truth` → `GroundTruth` if needed.
 
 - **Kvasir-SEG** (`trainer.dataset_choose: Kvasir_SEG`)
