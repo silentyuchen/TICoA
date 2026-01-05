@@ -5,13 +5,6 @@ This repository provides the official implementation of the paper
 
 ---
 
-## Overall Framework
-
-<p align="center">
-  <img src="assets/model.png" width="850">
-</p>
-
----
 
 ## Environment Setup
 
@@ -75,6 +68,25 @@ Supported datasets and their folder conventions:
 
 ### Hardware
 NVIDIA GPU with CUDA 11.8 support is recommended.
+
+## Overall Framework
+
+<p align="center">
+  <img src="assets/model.png" width="850">
+</p>
+
+---
+
+## 🔍 Main Contributions
+
+- **Text-Image Co-supervised Alignment Framework (TICoA):**  
+  We propose a new weakly-supervised framework that utilizes easily accessible textual descriptions of medical images to reduce the dependence on pixel-level annotations, enabling text-supervised medical image segmentation via contrastive learning.
+
+- **Fine-grained Text-Image Co-alignment Mechanism:**  
+  We introduce a text-image co-alignment mechanism that achieves fine-grained semantic alignment by matching text segments with their corresponding image regions precisely.
+
+- **Mamba-based Cross-modal Fusion Design:**  
+  We adopt Mamba as the image encoder and design a Mamba Fusion module with a bi-dimension fusion strategy to achieve efficient and detailed cross-modal feature fusion.
 
 ### Citation
 If you find this work useful in your research, please consider citing our related paper:
