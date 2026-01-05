@@ -82,6 +82,10 @@ NVIDIA GPU with CUDA 11.8 support is recommended.
 - **Mamba-based Cross-modal Fusion Design:**  
   We adopt Mamba as the image encoder and design a Mamba Fusion module with a bi-dimension fusion strategy to achieve efficient and detailed cross-modal feature fusion.
 
+ ## Comparison of the structure of the previous model and our proposed model.
+<p align="center">
+  <img src="assets/f1.png" width="850">
+</p
 ## Overall Framework
 
 <p align="center">
