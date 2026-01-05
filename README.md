@@ -107,13 +107,16 @@ NVIDIA GPU with CUDA 11.8 support is recommended.
 <p align="center">
   <img src="assets/f4.png" width="850">
 </p>
+
 ---
 
 ### Visualiztion
 <p align="center">
   <img src="assets/f5.png" width="850">
 </p>
+
 ---
+
 <p align="center">
   <img src="assets/f6.png" width="850">
 </p>
