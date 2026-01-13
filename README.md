@@ -72,7 +72,7 @@ NVIDIA GPU with CUDA 11.8 support is recommended.
 ## Training & Evaluation
 This implementation only supports multi-gpu, DistributedDataParallel training. To train TICoA using 4 GPUs, run:
 ```bash
-python -m torch.distributed.launch --nproc_per_node=8 \
+python -m torch.distributed.launch --nproc_per_node=4 \
                                    --use_env main.py \
                                    --model TICoA-T \
                                    --output_dir your/logging/directory \
